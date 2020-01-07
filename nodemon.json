@@ -1,0 +1,6 @@
+{
+  "env" : {
+    "MONGO_ATLAS_USN": "ub150",
+    "MONGO_ATLAS_PW": "loulou34"
+  }
+}
